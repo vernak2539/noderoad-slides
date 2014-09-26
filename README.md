@@ -4,8 +4,8 @@ These are the slides from the presentation [Gary Borton][2] and [I][3] gave at N
 
 Purposefully, the slides have very little content. Topics we discussed can be seen in the speaker notes section of the slides.
 
-The video should be up on [Joyent's website][1] soon. I will add a direct link when they post the video.
+The video is up on [Joyent's website][1]. Have fun.
 
-[1]: http://www.joyent.com/noderoad/videos
+[1]: https://www.joyent.com/developers/videos/node-js-on-the-road-cincinnati-gary-borton-and-alex-vernacchia
 [2]: https://github.com/gdborton
 [3]: https://github.com/vernak2539
